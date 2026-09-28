@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+<rect width="500" height="500" rx="70" fill="#061827"/>
+<g fill="none" stroke="#00d9ff" stroke-width="22"><path d="M120 95h260v310H120z"/><path d="M95 125h310M95 375h310"/></g>
+<g fill="#00d9ff"><circle cx="150" cy="145" r="16"/><circle cx="350" cy="145" r="16"/><circle cx="150" cy="355" r="16"/><circle cx="350" cy="355" r="16"/></g>
+<text x="250" y="285" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="62" font-weight="700">S</text>
+<text x="250" y="455" text-anchor="middle" fill="#9fd9e7" font-family="Arial,sans-serif" font-size="28" font-weight="700">SHIRVAN FILM</text>
+</svg>
